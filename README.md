@@ -1,16 +1,20 @@
 # 📄 AI Resume Analyzer
 
-An AI-powered Resume Analyzer built with Python, Streamlit, and Google's Gemini API.
+An AI-powered Resume Analyzer built using **Python**, **Streamlit**, and **Google Gemini AI**.
 
-## 🚀 Features
+## 🚀 Live Demo
 
-- Upload PDF resumes
-- Extract text from resumes
-- Match resumes with job descriptions
-- Calculate ATS match score
-- Detect missing skills
-- Generate AI-powered resume feedback using Gemini
-- Preview extracted resume text
+🔗 https://YOUR_STREAMLIT_URL.streamlit.app
+
+## 📷 Features
+
+- 📄 Upload PDF resumes
+- 📝 Extract resume text
+- 🎯 Compare resumes with job descriptions
+- 📊 Calculate ATS match score
+- ❌ Detect missing skills
+- 🤖 Generate AI-powered resume feedback using Google Gemini
+- 👀 Preview extracted resume text
 
 ## 🛠️ Technologies Used
 
@@ -19,6 +23,8 @@ An AI-powered Resume Analyzer built with Python, Streamlit, and Google's Gemini 
 - Google Gemini API
 - PyMuPDF (fitz)
 - python-dotenv
+- Git
+- GitHub
 
 ## 📦 Installation
 
@@ -37,7 +43,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```text
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=YOUR_API_KEY
 ```
 
 Run the application:
@@ -46,13 +52,9 @@ Run the application:
 streamlit run app.py
 ```
 
-## 📷 Preview
+## 📸 Screenshots
 
-Upload a resume and a job description to receive:
-- ATS Match Score
-- Missing Skills
-- AI Resume Review
-- Resume Preview
+*(Add screenshots of your app here later.)*
 
 ## 👨‍💻 Author
 
