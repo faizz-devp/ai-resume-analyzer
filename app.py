@@ -171,9 +171,6 @@ if st.button("Analyze Resume"):
                 st.error("Unable to get AI feedback.")
                 st.error(str(e))
 
-        st.write(ai_feedback)
-
-
         st.subheader("📄 Resume Preview")
 
         st.text_area(
