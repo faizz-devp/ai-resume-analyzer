@@ -54,7 +54,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app here later.)*
+
 
 ## 👨‍💻 Author
 
